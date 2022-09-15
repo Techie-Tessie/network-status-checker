@@ -1,0 +1,12 @@
+#title{
+    border: 3px solid black;
+    background-color: navy;
+    color: white;
+    font-size: 24px;
+    font-family: cursive;
+    font-weight: bold;
+    padding: 1rem;
+    width: fit-content;
+    border-radius: 1rem;
+    box-shadow: rgb(105, 95, 95) 10px 12px 2px;
+}
